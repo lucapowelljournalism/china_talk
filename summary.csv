@@ -1,0 +1,527 @@
+full_name,pct_true,count_all,gender,party,type,birthday,state,district,generation
+Steve Scalise,0.48,84,M,Republican,rep,1965-10-06,LA,1,Gen X
+Maxine Waters,0.46,132,F,Democrat,rep,1938-08-15,CA,43,Silent
+Jody B. Hice,0.43,95,M,Republican,rep,1960-04-22,GA,10,Boomers
+Adam B. Schiff,0.39,195,M,Democrat,rep,1960-06-22,CA,28,Boomers
+Mark E. Green,0.38,165,M,Republican,rep,1964-11-08,TN,7,Boomers
+Marsha Blackburn,0.37,145,F,Republican,sen,1952-06-06,TN,,Boomers
+Kevin McCarthy,0.36,47,M,Republican,rep,1965-01-26,CA,23,Gen X
+Mazie K. Hirono,0.36,150,F,Democrat,sen,1947-11-03,HI,,Boomers
+Jim Banks,0.35,145,M,Republican,rep,1979-07-16,IN,3,Gen X
+John Ratcliffe,0.35,99,M,Republican,rep,1965-10-20,TX,4,Gen X
+Billy Long,0.35,34,M,Republican,rep,1955-08-11,MO,7,Boomers
+Scott DesJarlais,0.34,64,M,Republican,rep,1964-02-21,TN,4,Boomers
+Doug Lamborn,0.34,128,M,Republican,rep,1954-05-24,CO,5,Boomers
+Doug LaMalfa,0.31,128,M,Republican,rep,1960-07-02,CA,1,Boomers
+Tom Cotton,0.3,143,M,Republican,sen,1977-05-13,AR,,Gen X
+Matt Gaetz,0.29,129,M,Republican,rep,1982-05-07,FL,1,Millennial
+Charles E. Schumer,0.29,190,M,Democrat,sen,1950-11-23,NY,,Boomers
+Guy Reschenthaler,0.28,141,M,Republican,rep,1983-04-17,PA,14,Millennial
+Dan Crenshaw,0.27,155,M,Republican,rep,1984-03-14,TX,2,Millennial
+Jason Smith,0.27,184,M,Republican,rep,1980-06-16,MO,8,Millennial
+Hakeem S. Jeffries,0.27,176,M,Democrat,rep,1970-08-04,NY,8,Gen X
+Jim Jordan,0.27,135,M,Republican,rep,1964-02-17,OH,4,Boomers
+Kevin Hern,0.27,93,M,Republican,rep,1961-12-04,OK,1,Boomers
+Richard Blumenthal,0.27,134,M,Democrat,sen,1946-02-13,CT,,Boomers
+Judy Chu,0.26,144,F,Democrat,rep,1953-07-07,CA,27,Boomers
+Josh Hawley,0.25,132,M,Republican,sen,1979-12-31,MO,,Gen X
+Will Hurd,0.25,177,M,Republican,rep,1977-08-19,TX,23,Gen X
+"Donald S. Beyer, Jr.",0.25,65,M,Democrat,rep,1950-06-20,VA,8,Boomers
+Vicky Hartzler,0.24,128,F,Republican,rep,1960-10-13,MO,4,Boomers
+Rick Scott,0.24,147,M,Republican,sen,1952-12-01,FL,,Boomers
+Elizabeth Warren,0.24,124,F,Democrat,sen,1949-06-22,MA,,Boomers
+Mike Kelly,0.23,80,M,Republican,rep,1948-05-10,PA,16,Boomers
+Scott Perry,0.22,150,M,Republican,rep,1962-05-27,PA,10,Boomers
+Brian Babin,0.22,148,M,Republican,rep,1948-03-23,TX,36,Boomers
+Virginia Foxx,0.22,51,F,Republican,rep,1943-06-29,NC,5,Silent
+"Bill Pascrell, Jr.",0.22,175,M,Democrat,rep,1937-01-25,NJ,9,Silent
+Ted Cruz,0.21,156,M,Republican,sen,1970-12-22,TX,,Gen X
+Bill Flores,0.21,24,M,Republican,rep,1954-02-25,TX,17,Boomers
+Thomas Massie,0.2,76,M,Republican,rep,1971-01-13,KY,4,Gen X
+Clay Higgins,0.2,121,M,Republican,rep,1961-08-24,LA,3,Boomers
+Bob Gibbs,0.2,98,M,Republican,rep,1954-06-14,OH,7,Boomers
+William R. Keating,0.2,93,M,Democrat,rep,1952-09-06,MA,9,Boomers
+Francis Rooney,0.19,147,M,Republican,rep,1953-12-04,FL,19,Boomers
+Joseph P. Kennedy III,0.18,114,M,Democrat,rep,1980-10-04,MA,4,Millennial
+Kamala D. Harris,0.18,179,F,Democrat,sen,1964-10-20,CA,,Boomers
+Chris Van Hollen,0.18,174,M,Democrat,sen,1959-01-10,MD,,Boomers
+Jeff Merkley,0.18,103,M,Democrat,sen,1956-10-24,OR,,Boomers
+"Randy K. Weber, Sr.",0.18,112,M,Republican,rep,1953-07-02,TX,14,Boomers
+Peter A. DeFazio,0.18,115,M,Democrat,rep,1947-05-27,OR,4,Boomers
+Marcy Kaptur,0.18,118,F,Democrat,rep,1946-06-17,OH,9,Boomers
+Michael Waltz,0.17,139,M,Republican,rep,1974-01-31,FL,6,Gen X
+"Eric A. ""Rick"" Crawford",0.17,108,M,Republican,rep,1966-01-22,AR,1,Gen X
+Larry Bucshon,0.17,107,M,Republican,rep,1962-05-31,IN,8,Boomers
+John Joyce,0.17,179,M,Republican,rep,1957-02-08,PA,13,Boomers
+Jerry McNerney,0.17,151,M,Democrat,rep,1951-06-18,CA,9,Boomers
+Jack Reed,0.17,126,M,Democrat,sen,1949-11-12,RI,,Boomers
+Janice D. Schakowsky,0.17,84,F,Democrat,rep,1944-05-26,IL,9,Boomers
+Peter T. King,0.17,182,M,Republican,rep,1944-04-05,NY,2,Boomers
+Patrick J. Leahy,0.17,93,M,Democrat,sen,1940-03-31,VT,,Silent
+Liz Cheney,0.16,188,F,Republican,rep,1966-07-28,WY,0,Gen X
+"Robert P. Casey, Jr.",0.16,93,M,Democrat,sen,1960-04-13,PA,,Boomers
+John Barrasso,0.16,104,M,Republican,sen,1952-07-21,WY,,Boomers
+John Kennedy,0.16,191,M,Republican,sen,1951-11-21,LA,,Boomers
+Steve Cohen,0.16,129,M,Democrat,rep,1949-05-24,TN,9,Boomers
+Ron Wyden,0.16,131,M,Democrat,sen,1949-05-03,OR,,Boomers
+"F. James Sensenbrenner, Jr.",0.16,50,M,Republican,rep,1943-06-14,WI,5,Silent
+Michael Cloud,0.15,100,M,Republican,rep,1975-05-13,TX,27,Gen X
+Rand Paul,0.15,123,M,Republican,sen,1963-01-07,KY,,Boomers
+Ted S. Yoho,0.15,94,M,Republican,rep,1955-04-13,FL,3,Boomers
+Steve King,0.15,169,M,Republican,rep,1949-05-28,IA,4,Boomers
+Edward J. Markey,0.15,144,M,Democrat,sen,1946-07-11,MA,,Boomers
+Bernard Sanders,0.15,182,M,Independent,sen,1941-09-08,VT,,Silent
+Adam Kinzinger,0.14,115,M,Republican,rep,1978-02-27,IL,16,Gen X
+Kelly Armstrong,0.14,35,M,Republican,rep,1976-10-08,ND,0,Gen X
+Mark Walker,0.14,125,M,Republican,rep,1969-05-20,NC,6,Gen X
+Debbie Wasserman Schultz,0.14,150,F,Democrat,rep,1966-09-27,FL,23,Gen X
+Doug Collins,0.14,161,M,Republican,rep,1966-08-16,GA,9,Gen X
+John Thune,0.14,147,M,Republican,sen,1961-01-07,SD,,Boomers
+Ken Buck,0.14,119,M,Republican,rep,1959-02-16,CO,4,Boomers
+Paul A. Gosar,0.14,95,M,Republican,rep,1958-11-22,AZ,4,Boomers
+Mo Brooks,0.14,109,M,Republican,rep,1954-04-29,AL,5,Boomers
+John H. Rutherford,0.14,129,M,Republican,rep,1952-09-02,FL,4,Boomers
+Patty Murray,0.14,172,F,Democrat,sen,1950-10-11,WA,,Boomers
+Jackie Speier,0.14,176,F,Democrat,rep,1950-05-14,CA,14,Boomers
+Chuck Grassley,0.14,196,M,Republican,sen,1933-09-17,IA,,Silent
+Lee M. Zeldin,0.13,101,M,Republican,rep,1980-01-30,NY,1,Millennial
+Mike Johnson,0.13,119,M,Republican,rep,1972-01-30,LA,4,Gen X
+Tom Reed,0.13,116,M,Republican,rep,1971-11-18,NY,23,Gen X
+Val Butler Demings,0.13,155,F,Democrat,rep,1957-03-12,FL,10,Boomers
+Sheldon Whitehouse,0.13,133,M,Democrat,sen,1955-10-20,RI,,Boomers
+K. Michael Conaway,0.13,123,M,Republican,rep,1948-06-11,TX,11,Boomers
+W. Gregory Steube,0.12,155,M,Republican,rep,1978-05-19,FL,17,Gen X
+George Holding,0.12,135,M,Republican,rep,1968-04-17,NC,2,Gen X
+Fred Keller,0.12,146,M,Republican,rep,1965-10-23,PA,12,Gen X
+Tim Burchett,0.12,165,M,Republican,rep,1964-08-25,TN,2,Boomers
+Barry Loudermilk,0.12,156,M,Republican,rep,1963-12-22,GA,11,Boomers
+David N. Cicilline,0.12,25,M,Democrat,rep,1961-07-15,RI,1,Boomers
+Ron Wright,0.12,159,M,Republican,rep,1953-04-08,TX,6,Boomers
+Tom Udall,0.12,125,M,Democrat,sen,1948-05-18,NM,,Boomers
+Al Green,0.12,146,M,Democrat,rep,1947-09-01,TX,9,Boomers
+Jerrold Nadler,0.12,113,M,Democrat,rep,1947-06-13,NY,10,Boomers
+Peter Welch,0.12,151,M,Democrat,rep,1947-05-02,VT,0,Boomers
+Mitt Romney,0.12,132,M,Republican,sen,1947-03-12,UT,,Boomers
+Barbara Lee,0.12,194,F,Democrat,rep,1946-07-16,CA,13,Boomers
+Susan A. Davis,0.12,181,F,Democrat,rep,1944-04-13,CA,53,Boomers
+Brian J. Mast,0.11,90,M,Republican,rep,1980-07-10,FL,18,Millennial
+Joaquin Castro,0.11,28,M,Democrat,rep,1974-09-16,TX,20,Gen X
+Katie Porter,0.11,114,F,Democrat,rep,1974-01-03,CA,45,Gen X
+Mike Lee,0.11,142,M,Republican,sen,1971-06-04,UT,,Gen X
+Michael Guest,0.11,116,M,Republican,rep,1970-02-04,MS,3,Gen X
+Linda T. Sánchez,0.11,80,F,Democrat,rep,1969-01-28,CA,38,Gen X
+Tom Rice,0.11,154,M,Republican,rep,1957-08-04,SC,7,Boomers
+Gregory W. Meeks,0.11,73,M,Democrat,rep,1953-09-25,NY,5,Boomers
+"Frank Pallone, Jr.",0.11,182,M,Democrat,rep,1951-10-30,NJ,6,Boomers
+Raúl M. Grijalva,0.11,148,M,Democrat,rep,1948-02-19,AZ,3,Boomers
+Thomas R. Carper,0.11,113,M,Democrat,sen,1947-01-23,DE,,Boomers
+David P. Roe,0.11,100,M,Republican,rep,1945-07-21,TN,1,Boomers
+Bonnie Watson Coleman,0.11,76,F,Democrat,rep,1945-02-06,NJ,12,Boomers
+Richard J. Durbin,0.11,125,M,Democrat,sen,1944-11-21,IL,,Boomers
+Jared F. Golden,0.1,94,M,Democrat,rep,1982-07-25,ME,2,Millennial
+Ruben Gallego,0.1,116,M,Democrat,rep,1979-11-20,AZ,7,Gen X
+Patrick T. McHenry,0.1,162,M,Republican,rep,1975-10-22,NC,10,Gen X
+Jodey C. Arrington,0.1,101,M,Republican,rep,1972-03-09,TX,19,Gen X
+Sean Patrick Maloney,0.1,157,M,Democrat,rep,1966-07-30,NY,18,Gen X
+Mark Pocan,0.1,128,M,Democrat,rep,1964-08-14,WI,2,Boomers
+Daniel Meuser,0.1,171,M,Republican,rep,1964-02-10,PA,9,Boomers
+Christopher A. Coons,0.1,102,M,Democrat,sen,1963-09-09,DE,,Boomers
+Steve Daines,0.1,168,M,Republican,sen,1962-08-20,MT,,Boomers
+"Earl L. ""Buddy"" Carter",0.1,146,M,Republican,rep,1957-09-06,GA,1,Boomers
+Greg Pence,0.1,140,M,Republican,rep,1956-11-14,IN,6,Boomers
+Lindsey Graham,0.1,170,M,Republican,sen,1955-07-09,SC,,Boomers
+Ralph Lee Abraham,0.1,113,M,Republican,rep,1954-09-16,LA,5,Boomers
+Sherrod Brown,0.1,116,M,Democrat,sen,1952-11-09,OH,,Boomers
+Vern Buchanan,0.1,165,M,Republican,rep,1951-05-08,FL,16,Boomers
+Daniel Webster,0.1,133,M,Republican,rep,1949-04-27,FL,11,Boomers
+Benjamin L. Cardin,0.1,117,M,Democrat,sen,1943-10-05,MD,,Silent
+William R. Timmons IV,0.09,127,M,Republican,rep,1984-04-30,SC,4,Millennial
+Ilhan Omar,0.09,166,F,Democrat,rep,1981-10-04,MN,5,Millennial
+Cathy McMorris Rodgers,0.09,93,F,Republican,rep,1969-05-22,WA,5,Gen X
+Bill Huizenga,0.09,74,M,Republican,rep,1969-01-31,MI,2,Gen X
+A. Drew Ferguson IV,0.09,133,M,Republican,rep,1966-11-15,GA,3,Gen X
+Jeff Duncan,0.09,99,M,Republican,rep,1966-01-07,SC,3,Gen X
+Ann Wagner,0.09,105,F,Republican,rep,1962-09-13,MO,2,Boomers
+Patrick J. Toomey,0.09,131,M,Republican,sen,1961-11-17,PA,,Boomers
+Kevin Cramer,0.09,108,M,Republican,sen,1961-01-21,ND,,Boomers
+James P. McGovern,0.09,132,M,Democrat,rep,1959-11-20,MA,2,Boomers
+J. Luis Correa,0.09,149,M,Democrat,rep,1958-01-24,CA,46,Boomers
+Bill Johnson,0.09,112,M,Republican,rep,1954-11-10,OH,6,Boomers
+Gary J. Palmer,0.09,146,M,Republican,rep,1954-05-14,AL,6,Boomers
+Nydia M. Velázquez,0.09,125,F,Democrat,rep,1953-03-28,NY,7,Boomers
+Rick W. Allen,0.09,140,M,Republican,rep,1951-11-07,GA,12,Boomers
+Gerald E. Connolly,0.09,122,M,Democrat,rep,1950-03-30,VA,11,Boomers
+John A. Yarmuth,0.09,57,M,Democrat,rep,1947-11-04,KY,3,Boomers
+Doris O. Matsui,0.09,149,F,Democrat,rep,1944-09-25,CA,6,Boomers
+Donna E. Shalala,0.09,111,F,Democrat,rep,1941-02-14,FL,27,Silent
+Nancy Pelosi,0.09,160,F,Democrat,rep,1940-03-26,CA,12,Silent
+Pete Aguilar,0.08,171,M,Democrat,rep,1979-06-19,CA,31,Gen X
+André Carson,0.08,151,M,Democrat,rep,1974-10-16,IN,7,Gen X
+Chip Roy,0.08,115,M,Republican,rep,1972-08-07,TX,21,Gen X
+Ted Budd,0.08,150,M,Republican,rep,1971-10-21,NC,13,Gen X
+Alexander X. Mooney,0.08,92,M,Republican,rep,1971-06-05,WV,2,Gen X
+Kelly Loeffler,0.08,149,F,Republican,sen,1970-11-27,GA,,Gen X
+Cory A. Booker,0.08,159,M,Democrat,sen,1969-04-27,NJ,,Gen X
+Ted Lieu,0.08,89,M,Democrat,rep,1969-03-29,CA,33,Gen X
+Ross Spano,0.08,76,M,Republican,rep,1966-07-16,FL,15,Gen X
+Michael F. Bennet,0.08,128,M,Democrat,sen,1964-11-28,CO,,Boomers
+Jared Huffman,0.08,179,M,Democrat,rep,1964-02-18,CA,2,Boomers
+Troy Balderson,0.08,92,M,Republican,rep,1962-01-16,OH,12,Boomers
+Juan Vargas,0.08,142,M,Democrat,rep,1961-03-07,CA,51,Boomers
+Amy Klobuchar,0.08,173,F,Democrat,sen,1960-05-25,MN,,Boomers
+Scott R. Tipton,0.08,78,M,Republican,rep,1956-11-09,CO,3,Boomers
+Robin L. Kelly,0.08,173,F,Democrat,rep,1956-04-30,IL,2,Boomers
+Mark R. Warner,0.08,109,M,Democrat,sen,1954-12-15,VA,,Boomers
+Brad Sherman,0.08,159,M,Democrat,rep,1954-10-24,CA,30,Boomers
+Blaine Luetkemeyer,0.08,176,M,Republican,rep,1952-05-07,MO,3,Boomers
+Emanuel Cleaver,0.08,120,M,Democrat,rep,1944-10-26,MO,5,Boomers
+Rosa L. DeLauro,0.08,109,F,Democrat,rep,1943-03-02,CT,3,Silent
+Nita M. Lowey,0.08,96,F,Democrat,rep,1937-07-05,NY,17,Silent
+Markwayne Mullin,0.07,123,M,Republican,rep,1977-07-26,OK,2,Gen X
+Ayanna Pressley,0.07,107,F,Democrat,rep,1974-02-03,MA,7,Gen X
+Ben Sasse,0.07,189,M,Republican,sen,1972-02-22,NE,,Gen X
+Martin Heinrich,0.07,133,M,Democrat,sen,1971-10-17,NM,,Gen X
+Debbie Mucarsel-Powell,0.07,144,F,Democrat,rep,1971-01-18,FL,26,Gen X
+Denver Riggleman,0.07,198,M,Republican,rep,1970-03-01,VA,5,Gen X
+Austin Scott,0.07,132,M,Republican,rep,1969-12-10,GA,8,Gen X
+Tammy Duckworth,0.07,133,F,Democrat,sen,1968-03-12,IL,,Gen X
+Kirsten E. Gillibrand,0.07,165,F,Democrat,sen,1966-12-09,NY,,Gen X
+Stacey E. Plaskett,0.07,111,F,Democrat,rep,1966-05-13,VI,0,Gen X
+Theodore E. Deutch,0.07,155,M,Democrat,rep,1966-05-07,FL,22,Gen X
+Tony Cárdenas,0.07,167,M,Democrat,rep,1963-03-31,CA,29,Boomers
+Ron Kind,0.07,124,M,Democrat,rep,1963-03-16,WI,3,Boomers
+Harley Rouda,0.07,138,M,Democrat,rep,1961-12-10,CA,48,Boomers
+Mario Diaz-Balart,0.07,84,M,Republican,rep,1961-09-25,FL,25,Boomers
+Bradley Scott Schneider,0.07,136,M,Democrat,rep,1961-08-20,IL,10,Boomers
+Mike Bost,0.07,184,M,Republican,rep,1960-12-30,IL,12,Boomers
+Debra A. Haaland,0.07,87,F,Democrat,rep,1960-12-02,NM,1,Boomers
+Andy Levin,0.07,135,M,Democrat,rep,1960-08-01,MI,9,Boomers
+Bill Cassidy,0.07,152,M,Republican,sen,1957-09-28,LA,,Boomers
+Diana DeGette,0.07,172,F,Democrat,rep,1957-07-29,CO,1,Boomers
+Andy Harris,0.07,153,M,Republican,rep,1957-01-25,MD,1,Boomers
+Kevin Brady,0.07,111,M,Republican,rep,1955-04-11,TX,8,Boomers
+Jim Cooper,0.07,101,M,Democrat,rep,1954-06-19,TN,5,Boomers
+Robert Menendez,0.07,98,M,Democrat,sen,1954-01-01,NJ,,Boomers
+Ralph Norman,0.07,157,M,Republican,rep,1953-06-20,SC,5,Boomers
+Ann Kirkpatrick,0.07,176,F,Democrat,rep,1950-03-24,AZ,2,Boomers
+Sheila Jackson Lee,0.07,99,F,Democrat,rep,1950-01-12,TX,18,Boomers
+Jack Bergman,0.07,99,M,Republican,rep,1947-02-02,MI,1,Boomers
+Jeanne Shaheen,0.07,166,F,Democrat,sen,1947-01-28,NH,,Boomers
+Carolyn B. Maloney,0.07,111,F,Democrat,rep,1946-02-19,NY,12,Boomers
+Michael B. Enzi,0.07,122,M,Republican,sen,1944-02-01,WY,,Boomers
+Alan S. Lowenthal,0.07,165,M,Democrat,rep,1941-03-08,CA,47,Silent
+Ro Khanna,0.06,132,M,Democrat,rep,1976-09-13,CA,17,Gen X
+Pramila Jayapal,0.06,144,F,Democrat,rep,1965-09-21,WA,7,Gen X
+Robert B. Aderholt,0.06,107,M,Republican,rep,1965-07-22,AL,4,Gen X
+Jamie Raskin,0.06,53,M,Democrat,rep,1962-12-13,MD,8,Boomers
+Tammy Baldwin,0.06,145,F,Democrat,sen,1962-02-11,WI,,Boomers
+Chris Stewart,0.06,119,M,Republican,rep,1960-07-15,UT,2,Boomers
+Madeleine Dean,0.06,106,F,Democrat,rep,1959-06-06,PA,4,Boomers
+Brad R. Wenstrup,0.06,101,M,Republican,rep,1958-06-17,OH,2,Boomers
+H. Morgan Griffith,0.06,151,M,Republican,rep,1958-03-15,VA,9,Boomers
+Rob Portman,0.06,191,M,Republican,sen,1955-12-19,OH,,Boomers
+Ron Johnson,0.06,137,M,Republican,sen,1955-04-08,WI,,Boomers
+Mike Braun,0.06,104,M,Republican,sen,1954-03-24,IN,,Boomers
+Karen Bass,0.06,125,F,Democrat,rep,1953-10-03,CA,37,Boomers
+Neal P. Dunn,0.06,115,M,Republican,rep,1953-02-16,FL,2,Boomers
+Michael C. Burgess,0.06,181,M,Republican,rep,1950-12-23,TX,26,Boomers
+Carol D. Miller,0.06,136,F,Republican,rep,1950-11-04,WV,3,Boomers
+Lois Frankel,0.06,141,F,Democrat,rep,1948-05-16,FL,21,Boomers
+Eliot L. Engel,0.06,96,M,Democrat,rep,1947-02-18,NY,16,Boomers
+Anna G. Eshoo,0.06,120,F,Democrat,rep,1942-12-13,CA,18,Silent
+Mike Gallagher,0.05,144,M,Republican,rep,1984-03-03,WI,8,Millennial
+Eric Swalwell,0.05,112,M,Democrat,rep,1980-11-16,CA,15,Millennial
+Abigail Davis Spanberger,0.05,153,F,Democrat,rep,1979-08-07,VA,7,Gen X
+Kendra S. Horn,0.05,118,F,Democrat,rep,1976-06-09,OK,5,Gen X
+Jimmy Gomez,0.05,148,M,Democrat,rep,1974-11-25,CA,34,Gen X
+Cory Gardner,0.05,148,M,Republican,sen,1974-08-22,CO,,Gen X
+Lori Trahan,0.05,130,F,Democrat,rep,1973-10-27,MA,3,Gen X
+Raja Krishnamoorthi,0.05,154,M,Democrat,rep,1973-07-19,IL,8,Gen X
+Tim Ryan,0.05,159,M,Democrat,rep,1973-07-16,OH,13,Gen X
+Brian Schatz,0.05,151,M,Democrat,sen,1972-10-20,HI,,Gen X
+Ben Ray Luján,0.05,131,M,Democrat,rep,1972-06-07,NM,3,Gen X
+Marco Rubio,0.05,145,M,Republican,sen,1971-05-28,FL,,Gen X
+Marc A. Veasey,0.05,176,M,Democrat,rep,1971-01-03,TX,33,Gen X
+Warren Davidson,0.05,113,M,Republican,rep,1970-03-01,OH,8,Gen X
+Tom Graves,0.05,125,M,Republican,rep,1970-02-03,GA,14,Gen X
+Adam Smith,0.05,131,M,Democrat,rep,1965-06-15,WA,9,Gen X
+John W. Rose,0.05,167,M,Republican,rep,1965-02-23,TN,6,Gen X
+Brett Guthrie,0.05,130,M,Republican,rep,1964-02-18,KY,2,Boomers
+Sam Graves,0.05,176,M,Republican,rep,1963-11-07,MO,6,Boomers
+Katherine M. Clark,0.05,103,F,Democrat,rep,1963-07-17,MA,5,Boomers
+Michael T. McCaul,0.05,123,M,Republican,rep,1962-01-14,TX,10,Boomers
+Anthony G. Brown,0.05,140,M,Democrat,rep,1961-11-21,MD,4,Boomers
+A. Donald McEachin,0.05,118,M,Democrat,rep,1961-10-10,VA,4,Boomers
+Paul Mitchell,0.05,134,M,Republican,rep,1961-05-08,MI,10,Boomers
+Andy Biggs,0.05,57,M,Republican,rep,1958-11-07,AZ,5,Boomers
+Mike Quigley,0.05,159,M,Democrat,rep,1958-10-17,IL,5,Boomers
+Maria Cantwell,0.05,107,F,Democrat,sen,1958-10-13,WA,,Boomers
+Daniel T. Kildee,0.05,132,M,Democrat,rep,1958-08-11,MI,5,Boomers
+Mike Rogers,0.05,113,M,Republican,rep,1958-07-16,AL,3,Boomers
+Mac Thornberry,0.05,55,M,Republican,rep,1958-07-15,TX,13,Boomers
+Jacky Rosen,0.05,135,F,Democrat,sen,1957-08-02,NV,,Boomers
+J. French Hill,0.05,169,M,Republican,rep,1956-12-05,AR,2,Boomers
+Glenn Grothman,0.05,171,M,Republican,rep,1955-07-03,WI,6,Boomers
+Bradley Byrne,0.05,97,M,Republican,rep,1955-02-16,AL,1,Boomers
+Mike Rounds,0.05,115,M,Republican,sen,1954-10-24,SD,,Boomers
+Debbie Dingell,0.05,150,F,Democrat,rep,1953-11-23,MI,12,Boomers
+Fred Upton,0.05,132,M,Republican,rep,1953-04-23,MI,6,Boomers
+Christopher H. Smith,0.05,171,M,Republican,rep,1953-03-04,NJ,4,Boomers
+Susan M. Collins,0.05,151,F,Republican,sen,1952-12-07,ME,,Boomers
+Debbie Stabenow,0.05,137,F,Democrat,sen,1950-04-29,MI,,Boomers
+Roger Williams,0.05,109,M,Republican,rep,1949-09-13,TX,25,Boomers
+Joe Wilson,0.05,111,M,Republican,rep,1947-07-31,SC,2,Boomers
+Bobby L. Rush,0.05,92,M,Democrat,rep,1946-11-23,IL,1,Boomers
+Lloyd Doggett,0.05,128,M,Democrat,rep,1946-10-06,TX,35,Boomers
+C. A. Dutch Ruppersberger,0.05,166,M,Democrat,rep,1946-01-31,MD,2,Boomers
+"Angus S. King, Jr.",0.05,140,M,Independent,sen,1944-03-31,ME,,Boomers
+James E. Clyburn,0.05,111,M,Democrat,rep,1940-07-21,SC,6,Silent
+John Lewis,0.05,152,M,Democrat,rep,1940-02-21,GA,5,Silent
+Steny H. Hoyer,0.05,148,M,Democrat,rep,1939-06-14,MD,5,Silent
+Eleanor Holmes Norton,0.05,143,F,Democrat,rep,1937-06-13,DC,0,Silent
+Grace F. Napolitano,0.05,75,F,Democrat,rep,1936-12-04,CA,32,Silent
+Alcee L. Hastings,0.05,103,M,Democrat,rep,1936-09-05,FL,20,Silent
+Alexandria Ocasio-Cortez,0.04,136,F,Democrat,rep,1989-10-13,NY,14,Millennial
+Andy Kim,0.04,140,M,Democrat,rep,1982-07-12,NJ,3,Millennial
+Tulsi Gabbard,0.04,95,F,Democrat,rep,1981-04-12,HI,2,Millennial
+Michael F. Q. San Nicolas,0.04,45,M,Democrat,rep,1981-01-30,GU,0,Millennial
+Anthony Brindisi,0.04,184,M,Democrat,rep,1978-11-22,NY,22,Gen X
+Darren Soto,0.04,135,M,Democrat,rep,1978-02-25,FL,9,Gen X
+Brendan F. Boyle,0.04,130,M,Democrat,rep,1977-02-06,PA,2,Gen X
+Nanette Diaz Barragán,0.04,119,F,Democrat,rep,1976-09-15,CA,44,Gen X
+Elissa Slotkin,0.04,97,F,Democrat,rep,1976-07-10,MI,8,Gen X
+Grace Meng,0.04,187,F,Democrat,rep,1975-10-01,NY,6,Gen X
+Brian K. Fitzpatrick,0.04,159,M,Republican,rep,1973-12-17,PA,1,Gen X
+Andy Barr,0.04,124,M,Republican,rep,1973-07-24,KY,6,Gen X
+Todd Young,0.04,180,M,Republican,sen,1972-08-24,IN,,Gen X
+David Rouzer,0.04,50,M,Republican,rep,1972-02-16,NC,7,Gen X
+Sean Casten,0.04,100,M,Democrat,rep,1971-11-23,IL,6,Gen X
+Adrian Smith,0.04,187,M,Republican,rep,1970-12-19,NE,3,Gen X
+Joni Ernst,0.04,184,F,Republican,sen,1970-07-01,IA,,Gen X
+Steven M. Palazzo,0.04,104,M,Republican,rep,1970-02-21,MS,4,Gen X
+Veronica Escobar,0.04,104,F,Democrat,rep,1969-09-15,TX,16,Gen X
+Darin LaHood,0.04,136,M,Republican,rep,1968-07-05,IL,18,Gen X
+James Lankford,0.04,73,M,Republican,sen,1968-03-04,OK,,Gen X
+Pete Stauber,0.04,151,M,Republican,rep,1966-05-10,MN,8,Gen X
+Martha McSally,0.04,168,F,Republican,sen,1966-03-22,AZ,,Gen X
+Norma J. Torres,0.04,150,F,Democrat,rep,1965-04-04,CA,35,Gen X
+Catherine Cortez Masto,0.04,90,F,Democrat,sen,1964-03-29,NV,,Boomers
+Pete Olson,0.04,116,M,Republican,rep,1962-12-09,TX,22,Boomers
+"Charles J. ""Chuck"" Fleischmann",0.04,141,M,Republican,rep,1962-10-11,TN,3,Boomers
+Lisa Blunt Rochester,0.04,97,F,Democrat,rep,1962-02-10,DE,0,Boomers
+Jeff Fortenberry,0.04,199,M,Republican,rep,1960-12-27,NE,1,Boomers
+Mark Takano,0.04,121,M,Democrat,rep,1960-12-10,CA,41,Boomers
+Mary Gay Scanlon,0.04,79,F,Democrat,rep,1959-08-30,PA,5,Boomers
+Tina Smith,0.04,137,F,Democrat,sen,1958-03-04,MN,,Boomers
+Steve Womack,0.04,105,M,Republican,rep,1957-02-18,AR,3,Boomers
+Greg Walden,0.04,114,M,Republican,rep,1957-01-10,OR,2,Boomers
+Robert E. Latta,0.04,79,M,Republican,rep,1956-04-18,OH,5,Boomers
+"Jesús G. ""Chuy"" García",0.04,50,M,Democrat,rep,1956-04-12,IL,4,Boomers
+Bill Foster,0.04,100,M,Democrat,rep,1955-10-07,IL,11,Boomers
+David Loebsack,0.04,179,M,Democrat,rep,1952-12-23,IA,2,Boomers
+Marcia L. Fudge,0.04,179,F,Democrat,rep,1952-10-29,OH,11,Boomers
+Mark DeSaulnier,0.04,145,M,Democrat,rep,1952-03-31,CA,11,Boomers
+Roy Blunt,0.04,135,M,Republican,sen,1950-01-10,MO,,Boomers
+David Perdue,0.04,142,M,Republican,sen,1949-12-10,GA,,Boomers
+Paul Tonko,0.04,136,M,Democrat,rep,1949-06-18,NY,20,Boomers
+Bennie G. Thompson,0.04,113,M,Democrat,rep,1948-01-28,MS,2,Boomers
+"Robert C. ""Bobby"" Scott",0.04,106,M,Democrat,rep,1947-04-30,VA,3,Boomers
+Paul Cook,0.04,153,M,Republican,rep,1943-03-03,CA,8,Silent
+Frederica S. Wilson,0.04,182,F,Democrat,rep,1942-11-05,FL,24,Silent
+Lamar Alexander,0.04,83,M,Republican,sen,1940-07-03,TN,,Silent
+Harold Rogers,0.04,99,M,Republican,rep,1937-12-31,KY,5,Silent
+Dianne Feinstein,0.04,157,F,Democrat,sen,1933-06-22,CA,,Silent
+Abby Finkenauer,0.03,151,F,Democrat,rep,1988-12-27,IA,1,Millennial
+Max Rose,0.03,117,M,Democrat,rep,1986-11-28,NY,11,Millennial
+Josh Harder,0.03,146,M,Democrat,rep,1986-08-01,CA,10,Millennial
+Anthony Gonzalez,0.03,149,M,Republican,rep,1984-09-19,OH,16,Millennial
+Elise M. Stefanik,0.03,73,F,Republican,rep,1984-07-02,NY,21,Millennial
+Trey Hollingsworth,0.03,115,M,Republican,rep,1983-09-12,IN,9,Millennial
+Joe Cunningham,0.03,159,M,Democrat,rep,1982-05-26,SC,1,Millennial
+Bryan Steil,0.03,138,M,Republican,rep,1981-03-30,WI,1,Millennial
+Sharice Davids,0.03,132,F,Democrat,rep,1980-05-22,KS,3,Millennial
+Jason Crow,0.03,163,M,Democrat,rep,1979-03-15,CO,6,Gen X
+Josh Gottheimer,0.03,109,M,Democrat,rep,1975-03-08,NJ,5,Gen X
+Russ Fulcher,0.03,120,M,Republican,rep,1973-07-19,ID,1,Gen X
+Richard Hudson,0.03,110,M,Republican,rep,1971-11-04,NC,8,Gen X
+Greg Stanton,0.03,124,M,Democrat,rep,1970-03-08,AZ,9,Gen X
+Kim Schrier,0.03,111,F,Democrat,rep,1968-08-23,WA,8,Gen X
+Susie Lee,0.03,159,F,Democrat,rep,1966-11-07,NV,3,Gen X
+David Kustoff,0.03,195,M,Republican,rep,1966-10-08,TN,8,Gen X
+Daniel Lipinski,0.03,170,M,Democrat,rep,1966-07-15,IL,3,Gen X
+Ami Bera,0.03,103,M,Democrat,rep,1965-03-02,CA,7,Gen X
+Lloyd Smucker,0.03,146,M,Republican,rep,1964-01-23,PA,11,Boomers
+Don Bacon,0.03,125,M,Republican,rep,1963-08-16,NE,2,Boomers
+Frank D. Lucas,0.03,155,M,Republican,rep,1960-01-06,OK,3,Boomers
+Glenn Thompson,0.03,157,M,Republican,rep,1959-07-27,PA,15,Boomers
+Mark E. Amodei,0.03,195,M,Republican,rep,1958-06-12,NV,2,Boomers
+Lisa Murkowski,0.03,104,F,Republican,sen,1957-05-22,AK,,Boomers
+John Hoeven,0.03,144,M,Republican,sen,1957-03-13,ND,,Boomers
+Ron Estes,0.03,138,M,Republican,rep,1956-07-19,KS,4,Boomers
+Tom McClintock,0.03,181,M,Republican,rep,1956-07-10,CA,4,Boomers
+Richard Burr,0.03,120,M,Republican,sen,1955-11-30,NC,,Boomers
+Stephen F. Lynch,0.03,101,M,Democrat,rep,1955-03-31,MA,8,Boomers
+"Henry C. ""Hank"" Johnson, Jr.",0.03,158,M,Democrat,rep,1954-10-02,GA,4,Boomers
+Michael F. Doyle,0.03,143,M,Democrat,rep,1953-08-05,PA,18,Boomers
+Ken Calvert,0.03,124,M,Republican,rep,1953-06-08,CA,42,Boomers
+Jefferson Van Drew,0.03,159,M,Republican,rep,1953-02-23,NJ,2,Boomers
+Gwen Moore,0.03,139,F,Democrat,rep,1951-04-18,WI,4,Boomers
+Tim Walberg,0.03,91,M,Republican,rep,1951-04-12,MI,7,Boomers
+Albio Sires,0.03,102,M,Democrat,rep,1951-01-26,NJ,8,Boomers
+Michael K. Simpson,0.03,125,M,Republican,rep,1950-09-08,ID,2,Boomers
+Dina Titus,0.03,157,F,Democrat,rep,1950-05-23,NV,1,Boomers
+Richard E. Neal,0.03,110,M,Democrat,rep,1949-02-14,MA,1,Boomers
+John B. Larson,0.03,140,M,Democrat,rep,1948-07-22,CT,1,Boomers
+Zoe Lofgren,0.03,65,F,Democrat,rep,1947-12-21,CA,19,Boomers
+G. K. Butterfield,0.03,91,M,Democrat,rep,1947-04-27,NC,1,Boomers
+"Sanford D. Bishop, Jr.",0.03,183,M,Democrat,rep,1947-02-04,GA,2,Boomers
+Alma S. Adams,0.03,113,F,Democrat,rep,1946-05-27,NC,12,Boomers
+José E. Serrano,0.03,132,M,Democrat,rep,1943-10-24,NY,15,Silent
+John R. Carter,0.03,77,M,Republican,rep,1941-11-06,TX,31,Silent
+Lucille Roybal-Allard,0.03,118,F,Democrat,rep,1941-06-12,CA,40,Silent
+David E. Price,0.03,93,M,Democrat,rep,1940-08-17,NC,4,Silent
+Richard C. Shelby,0.03,139,M,Republican,sen,1934-05-06,AL,,Silent
+Don Young,0.03,94,M,Republican,rep,1933-06-09,AK,0,
+Conor Lamb,0.02,196,M,Democrat,rep,1984-06-27,PA,17,Millennial
+Haley M. Stevens,0.02,166,F,Democrat,rep,1983-06-24,MI,11,Millennial
+Jaime Herrera Beutler,0.02,152,F,Republican,rep,1978-11-03,WA,3,Gen X
+Mike Levin,0.02,135,M,Democrat,rep,1978-10-28,CA,49,Gen X
+Seth Moulton,0.02,155,M,Democrat,rep,1978-10-24,MA,6,Gen X
+Stephanie N. Murphy,0.02,61,F,Democrat,rep,1978-09-16,FL,7,Gen X
+Steve Watkins,0.02,179,M,Republican,rep,1976-09-18,KS,2,Gen X
+Rashida Tlaib,0.02,133,F,Democrat,rep,1976-07-24,MI,13,Gen X
+Cedric L. Richmond,0.02,59,M,Democrat,rep,1973-09-13,LA,2,Gen X
+Steven Horsford,0.02,128,M,Democrat,rep,1973-04-29,NV,4,Gen X
+Raul Ruiz,0.02,175,M,Democrat,rep,1972-08-25,CA,36,Gen X
+Ben Cline,0.02,167,M,Republican,rep,1972-02-29,VA,6,Gen X
+Rob Woodall,0.02,160,M,Republican,rep,1970-02-11,GA,7,Gen X
+Rodney Davis,0.02,120,M,Republican,rep,1970-01-05,IL,13,Gen X
+Jimmy Panetta,0.02,123,M,Democrat,rep,1969-10-01,CA,20,Gen X
+Dean Phillips,0.02,124,M,Democrat,rep,1969-01-20,MN,3,Gen X
+Chrissy Houlahan,0.02,133,F,Democrat,rep,1967-06-05,PA,6,Gen X
+Tom Malinowski,0.02,134,M,Democrat,rep,1965-09-23,NJ,7,Gen X
+Tim Scott,0.02,57,M,Republican,sen,1965-09-19,SC,,Gen X
+Kathleen M. Rice,0.02,169,F,Democrat,rep,1965-02-15,NY,4,Gen X
+Yvette D. Clarke,0.02,132,F,Democrat,rep,1964-11-21,NY,9,Boomers
+Salud O. Carbajal,0.02,104,M,Democrat,rep,1964-11-18,CA,24,Boomers
+Dan Sullivan,0.02,90,M,Republican,sen,1964-11-13,AK,,Boomers
+James R. Langevin,0.02,183,M,Democrat,rep,1964-04-22,RI,2,Boomers
+TJ Cox,0.02,174,M,Democrat,rep,1963-07-18,CA,21,Boomers
+John P. Sarbanes,0.02,115,M,Democrat,rep,1962-05-22,MD,3,Boomers
+David Schweikert,0.02,118,M,Republican,rep,1962-03-03,AZ,6,Boomers
+Suzan K. DelBene,0.02,183,F,Democrat,rep,1962-02-17,WA,1,Boomers
+John R. Moolenaar,0.02,127,M,Republican,rep,1961-05-08,MI,4,Boomers
+Susan W. Brooks,0.02,123,F,Republican,rep,1960-08-25,IN,5,Boomers
+Michael R. Turner,0.02,99,M,Republican,rep,1960-01-11,OH,10,Boomers
+Cindy Hyde-Smith,0.02,178,F,Republican,sen,1959-05-10,MS,,Boomers
+Donald Norcross,0.02,174,M,Democrat,rep,1958-12-13,NJ,1,Boomers
+Gary C. Peters,0.02,178,M,Democrat,sen,1958-12-01,MI,,Boomers
+Debbie Lesko,0.02,134,F,Republican,rep,1958-11-14,AZ,8,Boomers
+Scott H. Peters,0.02,144,M,Democrat,rep,1958-06-17,CA,52,Boomers
+Margaret Wood Hassan,0.02,177,F,Democrat,sen,1958-02-27,NH,,Boomers
+John Shimkus,0.02,133,M,Republican,rep,1958-02-21,IL,15,Boomers
+Susan Wild,0.02,127,F,Democrat,rep,1957-06-07,PA,7,Boomers
+David P. Joyce,0.02,111,M,Republican,rep,1957-03-17,OH,14,Boomers
+Ann M. Kuster,0.02,174,F,Democrat,rep,1956-09-05,NH,2,Boomers
+Chellie Pingree,0.02,118,F,Democrat,rep,1955-04-02,ME,1,Boomers
+Suzanne Bonamici,0.02,83,F,Democrat,rep,1954-10-14,OR,1,Boomers
+Adriano Espaillat,0.02,146,M,Democrat,rep,1954-09-27,NY,13,Boomers
+Betty McCollum,0.02,140,F,Democrat,rep,1954-07-12,MN,4,Boomers
+Doug Jones,0.02,168,M,Democrat,sen,1954-05-04,AL,,Boomers
+Louie Gohmert,0.02,126,M,Republican,rep,1953-08-18,TX,1,Boomers
+Joe Courtney,0.02,156,M,Democrat,rep,1953-04-06,CT,2,Boomers
+Julia Brownley,0.02,103,F,Democrat,rep,1952-08-28,CA,26,Boomers
+Jim Costa,0.02,140,M,Democrat,rep,1952-04-13,CA,16,Boomers
+Kurt Schrader,0.02,122,M,Democrat,rep,1951-10-19,OR,5,Boomers
+Deb Fischer,0.02,148,F,Republican,sen,1951-03-01,NE,,Boomers
+Kenny Marchant,0.02,166,M,Republican,rep,1951-02-23,TX,24,Boomers
+Sylvia R. Garcia,0.02,115,F,Democrat,rep,1950-09-06,TX,29,Boomers
+Joyce Beatty,0.02,154,F,Democrat,rep,1950-03-12,OH,3,Boomers
+Peter J. Visclosky,0.02,165,M,Democrat,rep,1949-08-13,IN,1,Boomers
+Tom Cole,0.02,82,M,Republican,rep,1949-04-28,OK,4,Boomers
+Kay Granger,0.02,127,F,Republican,rep,1943-01-18,TX,12,Silent
+Mitch McConnell,0.02,120,M,Republican,sen,1942-02-20,KY,,Silent
+Lauren Underwood,0.01,115,F,Democrat,rep,1986-10-04,IL,14,Millennial
+Xochitl Torres Small,0.01,170,F,Democrat,rep,1984-11-15,NM,2,Millennial
+Joe Neguse,0.01,116,M,Democrat,rep,1984-05-13,CO,2,Millennial
+Chris Pappas,0.01,152,M,Democrat,rep,1980-06-04,NH,1,Millennial
+Dusty Johnson,0.01,138,M,Republican,rep,1976-09-30,SD,0,Gen X
+Kyrsten Sinema,0.01,184,F,Democrat,sen,1976-07-12,AZ,,Gen X
+Lizzie Fletcher,0.01,157,F,Democrat,rep,1975-02-13,TX,7,Gen X
+Ben McAdams,0.01,175,M,Democrat,rep,1974-12-05,UT,4,Gen X
+Derek Kilmer,0.01,169,M,Democrat,rep,1974-01-01,WA,6,Gen X
+Devin Nunes,0.01,191,M,Republican,rep,1973-10-01,CA,22,Gen X
+Van Taylor,0.01,167,M,Republican,rep,1972-08-01,TX,3,Gen X
+Garret Graves,0.01,142,M,Republican,rep,1972-01-31,LA,6,Gen X
+"Gilbert Ray Cisneros, Jr.",0.01,141,M,Democrat,rep,1971-02-12,CA,39,Gen X
+Jennifer Wexton,0.01,150,F,Democrat,rep,1968-05-27,VA,10,Gen X
+Bruce Westerman,0.01,84,M,Republican,rep,1967-11-18,AR,4,Gen X
+Vicente Gonzalez,0.01,134,M,Democrat,rep,1967-09-04,TX,15,Gen X
+Kathy Castor,0.01,121,F,Democrat,rep,1966-08-20,FL,14,Gen X
+James A. Himes,0.01,87,M,Democrat,rep,1966-07-05,CT,4,Gen X
+Rick Larsen,0.01,78,M,Democrat,rep,1965-06-15,WA,2,Gen X
+Cynthia Axne,0.01,176,F,Democrat,rep,1965-04-20,IA,3,Gen X
+Steve Stivers,0.01,161,M,Republican,rep,1965-03-24,OH,15,Gen X
+Terri A. Sewell,0.01,169,F,Democrat,rep,1965-01-01,AL,7,Gen X
+Jackie Walorski,0.01,107,F,Republican,rep,1963-08-17,IN,2,Boomers
+Filemon Vela,0.01,159,M,Democrat,rep,1963-02-13,TX,34,Boomers
+Gus M. Bilirakis,0.01,144,M,Republican,rep,1963-02-08,FL,12,Boomers
+Jim Hagedorn,0.01,132,M,Republican,rep,1962-08-04,MN,1,Boomers
+Cheri Bustos,0.01,154,F,Democrat,rep,1961-10-17,IL,17,Boomers
+Matt Cartwright,0.01,144,M,Democrat,rep,1961-05-01,PA,8,Boomers
+Thom Tillis,0.01,149,M,Republican,sen,1960-08-30,NC,,Boomers
+Lucy McBath,0.01,151,F,Democrat,rep,1960-06-01,GA,6,Boomers
+Brian Higgins,0.01,148,M,Democrat,rep,1959-10-06,NY,26,Boomers
+Robert J. Wittman,0.01,103,M,Republican,rep,1959-02-03,VA,1,Boomers
+Joseph D. Morelle,0.01,160,M,Democrat,rep,1957-04-29,NY,25,Boomers
+Jon Tester,0.01,155,M,Democrat,sen,1956-08-21,MT,,Boomers
+David J. Trone,0.01,103,M,Democrat,rep,1955-09-21,MD,6,Boomers
+Henry Cuellar,0.01,154,M,Democrat,rep,1955-09-19,TX,28,Boomers
+Dan Newhouse,0.01,93,M,Republican,rep,1955-07-10,WA,4,Boomers
+Brenda L. Lawrence,0.01,113,F,Democrat,rep,1954-10-18,MI,14,Boomers
+Jerry Moran,0.01,156,M,Republican,sen,1954-05-29,KS,,Boomers
+Shelley Moore Capito,0.01,124,F,Republican,sen,1953-11-26,WV,,Boomers
+Ed Perlmutter,0.01,116,M,Democrat,rep,1953-05-01,CO,7,Boomers
+Ed Case,0.01,139,M,Democrat,rep,1952-09-27,HI,1,Boomers
+Denny Heck,0.01,132,M,Democrat,rep,1952-07-29,WA,10,Boomers
+John Cornyn,0.01,103,M,Republican,sen,1952-02-02,TX,,Boomers
+Roger F. Wicker,0.01,118,M,Republican,sen,1951-07-05,MS,,Boomers
+Mike Thompson,0.01,166,M,Democrat,rep,1951-01-24,CA,5,Boomers
+John Boozman,0.01,135,M,Republican,sen,1950-12-10,AR,,Boomers
+"Al Lawson, Jr.",0.01,140,M,Democrat,rep,1948-09-23,FL,5,Boomers
+Earl Blumenauer,0.01,91,M,Democrat,rep,1948-08-16,OR,3,Boomers
+"Joe Manchin, III",0.01,163,M,Democrat,sen,1947-08-24,WV,,Boomers
+David B. McKinley,0.01,69,M,Republican,rep,1947-03-28,WV,1,Boomers
+Tom O’Halleran,0.01,171,M,Democrat,rep,1946-01-24,AZ,1,Boomers
+David Scott,0.01,160,M,Democrat,rep,1945-06-27,GA,13,Boomers
+James R. Baird,0.01,161,M,Republican,rep,1945-06-04,IN,4,Boomers
+John Garamendi,0.01,87,M,Democrat,rep,1945-01-24,CA,3,Boomers
+James E. Risch,0.01,111,M,Republican,sen,1943-05-03,ID,,Silent
+Danny K. Davis,0.01,89,M,Democrat,rep,1941-09-06,IL,7,Silent
+Eddie Bernice Johnson,0.01,139,F,Democrat,rep,1935-12-03,TX,30,Silent
+Colin Z. Allred,0,161,M,Democrat,rep,1983-04-15,TX,32,Millennial
+Antonio Delgado,0,166,M,Democrat,rep,1977-01-19,NY,19,Gen X
+Jenniffer González-Colón,0,120,F,Republican,rep,1976-08-05,PR,0,Gen X
+Martha Roby,0,116,F,Republican,rep,1976-07-27,AL,2,Gen X
+Elaine G. Luria,0,172,F,Democrat,rep,1975-08-15,VA,2,Gen X
+Christopher Murphy,0,200,M,Democrat,sen,1973-08-03,CT,,Gen X
+Jahana Hayes,0,161,F,Democrat,rep,1973-03-08,CT,5,Gen X
+Angie Craig,0,174,F,Democrat,rep,1972-02-14,MN,2,Gen X
+Mikie Sherrill,0,130,F,Democrat,rep,1972-01-19,NJ,11,Gen X
+Trent Kelly,0,69,M,Republican,rep,1966-03-01,MS,1,Gen X
+John Katko,0,132,M,Republican,rep,1962-11-09,NY,24,Boomers
+Thomas R. Suozzi,0,105,M,Democrat,rep,1962-08-31,NY,3,Boomers
+Tom Emmer,0,138,M,Republican,rep,1961-03-03,MN,6,Boomers
+Roger W. Marshall,0,0,M,Republican,rep,1960-08-09,KS,1,Boomers
+John R. Curtis,0,71,M,Republican,rep,1960-05-10,UT,3,Boomers
+"Donald M. Payne, Jr.",0,177,M,Democrat,rep,1958-12-17,NJ,10,Boomers
+Charlie Crist,0,160,M,Democrat,rep,1956-07-24,FL,13,Boomers
+Gregorio Kilili Camacho Sablan,0,110,M,Democrat,rep,1955-01-19,MP,0,Boomers
+Dwight Evans,0,70,M,Democrat,rep,1954-05-16,PA,3,Boomers
+Steve Chabot,0,111,M,Republican,rep,1953-01-22,OH,1,Boomers
+Rob Bishop,0,0,M,Republican,rep,1951-07-13,UT,1,Boomers
+Mike Crapo,0,74,M,Republican,sen,1951-05-20,ID,,Boomers
+Aumua Amata Coleman Radewagen,0,189,F,Republican,rep,1947-12-29,AS,0,Boomers
+Bill Posey,0,184,M,Republican,rep,1947-12-18,FL,8,Boomers
+Pat Roberts,0,115,M,Republican,sen,1936-04-20,KS,,Silent
+James M. Inhofe,0,82,M,Republican,sen,1934-11-17,OK,,Silent
